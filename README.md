@@ -7,7 +7,7 @@
 > on online .so that i decided to made it and 
 > after that publish it on online.  
 
- image will pagste here
+## view [Demo](https://kazimahin.github.io/mui-dashbord/)
 ## Installation
 
 Application requires [Node.js](https://nodejs.org/) v10+ to run.
