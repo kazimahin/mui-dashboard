@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mui-dashbaord/static/css/main.5ca001ca.chunk.css",
-    "main.js": "/mui-dashbaord/static/js/main.0859ebaf.chunk.js",
-    "main.js.map": "/mui-dashbaord/static/js/main.0859ebaf.chunk.js.map",
-    "runtime-main.js": "/mui-dashbaord/static/js/runtime-main.d92814aa.js",
-    "runtime-main.js.map": "/mui-dashbaord/static/js/runtime-main.d92814aa.js.map",
-    "static/js/2.72603d11.chunk.js": "/mui-dashbaord/static/js/2.72603d11.chunk.js",
-    "static/js/2.72603d11.chunk.js.map": "/mui-dashbaord/static/js/2.72603d11.chunk.js.map",
-    "index.html": "/mui-dashbaord/index.html",
-    "static/css/main.5ca001ca.chunk.css.map": "/mui-dashbaord/static/css/main.5ca001ca.chunk.css.map",
-    "static/js/2.72603d11.chunk.js.LICENSE.txt": "/mui-dashbaord/static/js/2.72603d11.chunk.js.LICENSE.txt"
+    "main.css": "/mui-dashboard/static/css/main.5ca001ca.chunk.css",
+    "main.js": "/mui-dashboard/static/js/main.0859ebaf.chunk.js",
+    "main.js.map": "/mui-dashboard/static/js/main.0859ebaf.chunk.js.map",
+    "runtime-main.js": "/mui-dashboard/static/js/runtime-main.bead0523.js",
+    "runtime-main.js.map": "/mui-dashboard/static/js/runtime-main.bead0523.js.map",
+    "static/js/2.72603d11.chunk.js": "/mui-dashboard/static/js/2.72603d11.chunk.js",
+    "static/js/2.72603d11.chunk.js.map": "/mui-dashboard/static/js/2.72603d11.chunk.js.map",
+    "index.html": "/mui-dashboard/index.html",
+    "static/css/main.5ca001ca.chunk.css.map": "/mui-dashboard/static/css/main.5ca001ca.chunk.css.map",
+    "static/js/2.72603d11.chunk.js.LICENSE.txt": "/mui-dashboard/static/js/2.72603d11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d92814aa.js",
+    "static/js/runtime-main.bead0523.js",
     "static/js/2.72603d11.chunk.js",
     "static/css/main.5ca001ca.chunk.css",
     "static/js/main.0859ebaf.chunk.js"
