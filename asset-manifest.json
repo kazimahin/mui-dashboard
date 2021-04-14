@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mui-dashbord/static/css/main.5ca001ca.chunk.css",
-    "main.js": "/mui-dashbord/static/js/main.0859ebaf.chunk.js",
-    "main.js.map": "/mui-dashbord/static/js/main.0859ebaf.chunk.js.map",
-    "runtime-main.js": "/mui-dashbord/static/js/runtime-main.9d67d117.js",
-    "runtime-main.js.map": "/mui-dashbord/static/js/runtime-main.9d67d117.js.map",
-    "static/js/2.72603d11.chunk.js": "/mui-dashbord/static/js/2.72603d11.chunk.js",
-    "static/js/2.72603d11.chunk.js.map": "/mui-dashbord/static/js/2.72603d11.chunk.js.map",
-    "index.html": "/mui-dashbord/index.html",
-    "static/css/main.5ca001ca.chunk.css.map": "/mui-dashbord/static/css/main.5ca001ca.chunk.css.map",
-    "static/js/2.72603d11.chunk.js.LICENSE.txt": "/mui-dashbord/static/js/2.72603d11.chunk.js.LICENSE.txt"
+    "main.css": "/mui-dashbaord/static/css/main.5ca001ca.chunk.css",
+    "main.js": "/mui-dashbaord/static/js/main.0859ebaf.chunk.js",
+    "main.js.map": "/mui-dashbaord/static/js/main.0859ebaf.chunk.js.map",
+    "runtime-main.js": "/mui-dashbaord/static/js/runtime-main.d92814aa.js",
+    "runtime-main.js.map": "/mui-dashbaord/static/js/runtime-main.d92814aa.js.map",
+    "static/js/2.72603d11.chunk.js": "/mui-dashbaord/static/js/2.72603d11.chunk.js",
+    "static/js/2.72603d11.chunk.js.map": "/mui-dashbaord/static/js/2.72603d11.chunk.js.map",
+    "index.html": "/mui-dashbaord/index.html",
+    "static/css/main.5ca001ca.chunk.css.map": "/mui-dashbaord/static/css/main.5ca001ca.chunk.css.map",
+    "static/js/2.72603d11.chunk.js.LICENSE.txt": "/mui-dashbaord/static/js/2.72603d11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d67d117.js",
+    "static/js/runtime-main.d92814aa.js",
     "static/js/2.72603d11.chunk.js",
     "static/css/main.5ca001ca.chunk.css",
     "static/js/main.0859ebaf.chunk.js"
