@@ -3,7 +3,7 @@
 
 > I think it will help you to shorter your  
 > work .Once i hardly need this type of 
-> Dashbord but i could not find any dashbord
+> Dashbord . But i could not find any dashbord
 > on online .so that i decided to made it and 
 > after that publish it on online.  
 
