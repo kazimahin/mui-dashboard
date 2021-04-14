@@ -2,7 +2,7 @@
   "name": "material-admin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kazimahin.github.io/mui-dashbaord/",
+  "homepage": "https://kazimahin.github.io/mui-dashboard/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
