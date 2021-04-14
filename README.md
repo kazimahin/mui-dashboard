@@ -10,13 +10,13 @@
 ## view [Demo](https://kazimahin.github.io/mui-dashbord/)
 ## Installation
 
-Application requires [Node.js](https://nodejs.org/) v10+ to run.
+Application requires [Node.js](https://nodejs.org/) v10+ and [Git](https://git-scm.com/) to run 
 
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-git clone https://github.com/kazimahin/muidashbord
-cd muidashbord
+git clone https://github.com/kazimahin/mui-dashbord
+cd mui-dashbord
 npm i 
 npm start
 ```
